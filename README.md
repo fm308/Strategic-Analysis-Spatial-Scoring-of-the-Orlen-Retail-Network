@@ -23,12 +23,11 @@ incorporating business drivers (shopping malls, high-capacity road networks) and
 ## Visualizations
 
 <img width="3507" height="2480" alt="heatmap_last_ver" src="https://github.com/user-attachments/assets/0efd9e8f-ba54-4afb-9846-c02313d02282" />
-<img width="2624" height="1361" alt="wykres_slajd2" src="https://github.com/user-attachments/assets/d878fd59-b678-41f9-8bfe-6e44353121c9" />
 <p><i>Fig. 1: Regional Market Density (Heatmap) for Orlen gas stations.</i></p>
 
 <img width="3507" height="2480" alt="heatmap_moya_mol" src="https://github.com/user-attachments/assets/0da58ff4-3ed3-4636-8a83-7062ffe9ddde" />
 <p><i>Fig. 2: Regional Market Density (Heatmap) for competition Moya and MOL.</i></p>
 
 <img width="3507" height="2480" alt="orlen_slajd2" src="https://github.com/user-attachments/assets/0d588b3b-30ee-419b-964f-fd0004721a18" />
-<p><i>Fig. 3: Regional Market Density (Heatmap) for competition Moya and MOL![Uploading wykres_slajd2.png…]()
-.</i></p>
+<img width="2624" height="1361" alt="wykres_slajd2" src="https://github.com/user-attachments/assets/a3ed6379-675a-4307-9729-3e75b66d9bba" />
+<p><i>Fig. 3: Competitive Exposure with statistical chart.</i></p>
