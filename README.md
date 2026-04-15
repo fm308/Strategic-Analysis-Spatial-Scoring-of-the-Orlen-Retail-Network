@@ -22,4 +22,4 @@ incorporating business drivers (shopping malls, high-capacity road networks) and
 
 
 <img width="3507" height="2480" alt="heatmap_moya_mol" src="https://github.com/user-attachments/assets/0656fd23-bcf7-4b99-ad6b-d79c6a442b81" />
-[cite_start]*Fig. 1: Regional Market Density (Heatmap) for Orlen gas stations.* [cite: 69, 70]
+<p><i>Fig. 1: Regional Market Density (Heatmap) – Intensity of Orlen’s presence generated using Kernel Density Estimation (KDE).</i></p>
