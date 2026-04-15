@@ -1,8 +1,5 @@
 # Strategic Analysis Spatial Scoring of the Orlen Retail Network
 
----
-
-
 ## Project description: 
 The project provided a comprehensive assessment of the spatial potential for the Orlen gas station network in the Pomeranian Voivodeship. 
 It encompassed the entire data lifecycle: from automated data acquisition (Web Scraping) and advanced spatial modeling in PostGIS to the 
