@@ -31,3 +31,8 @@ incorporating business drivers (shopping malls, high-capacity road networks) and
 <img width="3507" height="2480" alt="orlen_slajd2" src="https://github.com/user-attachments/assets/0d588b3b-30ee-419b-964f-fd0004721a18" />
 <img width="2624" height="1361" alt="wykres_slajd2" src="https://github.com/user-attachments/assets/a3ed6379-675a-4307-9729-3e75b66d9bba" />
 <p><i>Fig. 3: Competitive Exposure with statistical chart.</i></p>
+
+<img width="3507" height="2480" alt="slajd3" src="https://github.com/user-attachments/assets/d0d8f58f-bdf8-4e40-87f7-a5a200182493" />
+<img width="2392" height="1280" alt="wykres_slajd3" src="https://github.com/user-attachments/assets/a0ff5f5b-6c41-42c9-aeb9-a1ae2bff9515" />
+<p><i>Fig. 3: Strategic Scoring Map with statistical chart.</i></p>
+
