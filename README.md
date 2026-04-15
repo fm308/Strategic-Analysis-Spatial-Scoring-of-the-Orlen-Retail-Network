@@ -20,6 +20,12 @@ incorporating business drivers (shopping malls, high-capacity road networks) and
 - Fig. 3: Competitive Exposure: A spatial statistical overview illustrating the average distance to the nearest rivals, providing a quantitative assessment of market pressure on specific network assets.
 - Fig. 4: Strategic Scoring Map: The final output of the MCDA model, featuring automated network segmentation into four strategic tiers: Strategic Stars, Solid Performers, Neutral, and High Risk.
 
+## Visualizations
 
-<img width="3507" height="2480" alt="heatmap_moya_mol" src="https://github.com/user-attachments/assets/0656fd23-bcf7-4b99-ad6b-d79c6a442b81" />
-<p><i>Fig. 1: Regional Market Density (Heatmap) – Intensity of Orlen’s presence generated using Kernel Density Estimation (KDE).</i></p>
+<img width="3507" height="2480" alt="heatmap_last_ver" src="https://github.com/user-attachments/assets/0efd9e8f-ba54-4afb-9846-c02313d02282" />
+<p><i>Fig. 1: Regional Market Density (Heatmap) for Orlen gas stations.</i></p>
+
+<img width="3507" height="2480" alt="heatmap_moya_mol" src="https://github.com/user-attachments/assets/0da58ff4-3ed3-4636-8a83-7062ffe9ddde" />
+<p><i>Fig. 1: Regional Market Density (Heatmap) for competition Moya and MOL.</i></p>
+
+
