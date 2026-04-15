@@ -1,4 +1,4 @@
-# Strategic-Analysis-Spatial-Scoring-of-the-Orlen-Retail-Network
+# Strategic Analysis Spatial Scoring of the Orlen Retail Network
 
 ---
 
