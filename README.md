@@ -13,3 +13,9 @@ incorporating business drivers (shopping malls, high-capacity road networks) and
 - **Data Engineering**: Python, Pandas (ETL, data cleaning, schema standardization).
 - **Data Acquisition**: Apify (Web Scraping), OpenStreetMap (OSM).
 - **Analytics**: MCDA (Multi-Criteria Decision Analysis), KDE (Kernel Density Estimation).
+
+## Key results 
+- Advanced SQL Analytics: Developed complex SQL queries to calculate station coordinates and determine minimum, maximum, and average distances to the top 3 nearest competitors (MOL, Moya). Built an automated scoring algorithm that awards points for proximity to traffic generators and deducts points for competitive pressure or significant distance from high-capacity road networks.
+- Figs. 1 & 2: Regional Market Density (Heatmap): Applied Kernel Density Estimation (KDE) to visualize Orlen’s regional market dominance and identify areas with the highest service saturation.
+- Fig. 3: Competitive Exposure: A spatial statistical overview illustrating the average distance to the nearest rivals, providing a quantitative assessment of market pressure on specific network assets.
+- Fig. 4: Strategic Scoring Map: The final output of the MCDA model, featuring automated network segmentation into four strategic tiers: Strategic Stars, Solid Performers, Neutral, and High Risk.
